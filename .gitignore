@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Local datasets (downloaded automatically)
+dataset/
+
+# Local Anaconda/PyCharm project state
+anaconda_projects/
+*.db
+
+# Optional: ignore large model weights
+# models/*.pth
+
